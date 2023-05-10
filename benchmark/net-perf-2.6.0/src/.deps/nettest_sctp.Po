@@ -1,0 +1,5 @@
+nettest_sctp.o: nettest_sctp.c /usr/include/stdc-predef.h ../config.h
+
+/usr/include/stdc-predef.h:
+
+../config.h:

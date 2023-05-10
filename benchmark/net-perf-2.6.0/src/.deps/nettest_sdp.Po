@@ -1,0 +1,5 @@
+nettest_sdp.o: nettest_sdp.c /usr/include/stdc-predef.h ../config.h
+
+/usr/include/stdc-predef.h:
+
+../config.h:

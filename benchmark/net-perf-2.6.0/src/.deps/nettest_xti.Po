@@ -1,0 +1,5 @@
+nettest_xti.o: nettest_xti.c /usr/include/stdc-predef.h ../config.h
+
+/usr/include/stdc-predef.h:
+
+../config.h:
